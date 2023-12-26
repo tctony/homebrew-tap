@@ -1,4 +1,8 @@
-# Tctony Tap
+# tctony homebrew tap
+
+## available taps
+
+- `gnupg@2.4.0`
 
 ## How do I install these formulae?
 
